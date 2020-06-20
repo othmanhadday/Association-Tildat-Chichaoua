@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "557984434168",
+    "firebase_url": "https://tildam3ak.firebaseio.com",
+    "project_id": "tildam3ak",
+    "storage_bucket": "tildam3ak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557984434168:android:716ad96083203380bd380d",
+        "android_client_info": {
+          "package_name": "com.othmanehadday.admintildatm3ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557984434168-4hpblp5jbvdeovnb6r6c50m5ifat8eds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1YpFs2ZubA0Pimhqt_XZuRZUFu8H2oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557984434168-4hpblp5jbvdeovnb6r6c50m5ifat8eds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557984434168:android:cacf556fe24ed2e6bd380d",
+        "android_client_info": {
+          "package_name": "com.othmanehadday.tildam3ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557984434168-4hpblp5jbvdeovnb6r6c50m5ifat8eds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1YpFs2ZubA0Pimhqt_XZuRZUFu8H2oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557984434168-4hpblp5jbvdeovnb6r6c50m5ifat8eds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557984434168:android:7e97e24936c04576bd380d",
+        "android_client_info": {
+          "package_name": "com.othmanehadday.tilditm3ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557984434168-4hpblp5jbvdeovnb6r6c50m5ifat8eds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1YpFs2ZubA0Pimhqt_XZuRZUFu8H2oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557984434168-4hpblp5jbvdeovnb6r6c50m5ifat8eds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

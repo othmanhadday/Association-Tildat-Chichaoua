@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="tildatImagewidth">240dp</dimen>
+	<dimen name="m_10dp">24dp</dimen>
+	<dimen name="mt_25">60dp</dimen>
+	<dimen name="m_20dp">48dp</dimen>
+	<dimen name="text_24sp">57.6sp</dimen>
+	<dimen name="text_18sp">43.2sp</dimen>
+	<dimen name="size_150dp">360dp</dimen>
+	<dimen name="m_5dp">12dp</dimen>
+	<dimen name="test">24dp</dimen>
+	<dimen name="size_130dp">312dp</dimen>
+	<dimen name="size_120dp">288dp</dimen>
+	<dimen name="s_180dp">432dp</dimen>
+	<dimen name="s_300dp">720dp</dimen>
+	<dimen name="s_100dp">240dp</dimen>
+	<dimen name="size_200dp">480dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+	<dimen name="m_10dp">12.8dp</dimen>
+	<dimen name="mt_25">32.1dp</dimen>
+	<dimen name="m_20dp">25.7dp</dimen>
+	<dimen name="text_24sp">30.8sp</dimen>
+	<dimen name="text_18sp">23.1sp</dimen>
+	<dimen name="test">12.8dp</dimen>
+	<dimen name="size_150dp">192.6dp</dimen>
+	<dimen name="m_5dp">6.4dp</dimen>
+	<dimen name="size_130dp">166.9dp</dimen>
+	<dimen name="size_120dp">154.1dp</dimen>
+	<dimen name="s_180dp">231.1dp</dimen>
+	<dimen name="s_300dp">385.2dp</dimen>
+	<dimen name="s_100dp">128.4dp</dimen>
+	<dimen name="size_200dp">256.8dp</dimen>
+</resources>

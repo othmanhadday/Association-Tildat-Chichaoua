@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arab">ⵖⴰⵡⵍ ⴷ</string>
+    <string name="app_name">ⵜⵉⵍⴷⴷⴰⵜ ⴷⵉⵡⵏ ⵉⵍⵍⴰⵏ</string>
+    <string name="call_us">ⵖⴰⵡⵍ ⴷ</string>
+    <string name="message_us">ⵜⴰⴱⵔⴰⵜ ⵉⵜⵜⵢⴰⵔⴰⵏ</string>
+    <string name="reclamation">ⵣⵎⵎⵉⵎ ⴰⵙⵎⵓⵎⵎⵉ ⵏⵏⵎ</string>
+    <string name="aboutApp">ⵙ ⵓⵙⵇⵇⵉⵔ</string>
+    <string name="societeTildat">ⵜⴰⵎⵙⵎⵓⵏⵜⵉⵍⴷⴷⴰⵜ</string>
+    <string name="urNotAlone">ⴽⵎⵎⵉⵏ ⵓⵔ ⵜⴳⵉⵜ ⵡⴰⵃⴷⵓⴽⵎ</string>
+    <string name="sendRecla">ⴰⵙⵉⴼⴹ ⵏ ⵓⵙⵎⵓⵎⵎⵉ</string>
+    <string name="name">ⵉⵙⵎ ⵏ ⵡⵓⵏⴳⵉⵙ</string>
+    <string name="phone">ⵓⵟⵟⵓⵏ ⵏ ⵜⵉⵍⵉⴼⵓⵏ</string>
+    <string name="address">ⵜⴰⵏⵙⴰ</string>
+    <string name="urReclam">ⴰⵙⵎⵓⵎⵎⵉ ⵏⵏⵎ</string>
+    <string name="send">ⵙⵙⵉⴼⴹ</string>
+    <string name="plateformTildat">ⵜⴰⴷⴽⴽⵯⴰⵏⵜ ⵏ   ⵜⵉⵍⴷⴷⴰⵜ</string>
+    <string name="womensVlente">ⵡⵉⵏⵏ ⵜⵎⵖⴰⵔⵉⵏ ⵜⴰⵖⵜⵉⵙⵉⵏ ⵏ ⵜⵏⵃⵕⵉⴹⵜ</string>
+    <string name="chal7a">ⵜⴰⵎⴰⵣⵉⵖⵜ</string>
+
+</resources>
